@@ -4,7 +4,7 @@ This is an **unofficial version** of the citation style (csl)[http://citationsty
 **Note**: This citation style (csl) is a **working verion without being fully tested**. I created it in a short time and only used it for citing **conference proceedings, journal articles, book chapters, and web pages**. 
 
 ## Before Installation
-Make sure that you have installed [Zotero](https://www.zotero.org/) or other reference manager such as [Papers](http://papersapp.com/) or [Mendeley](https://www.mendeley.com//)
+Make sure that you have installed [Zotero](https://www.zotero.org/) or other reference managers such as [Papers](http://papersapp.com/) or [Mendeley](https://www.mendeley.com//)
 
 ## Installation
 - Downlaod the csl file.
