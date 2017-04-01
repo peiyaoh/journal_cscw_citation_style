@@ -4,9 +4,9 @@ This is an **unofficial version** of the citation style (csl)[http://citationsty
 **Note**: This citation style (csl) is a **working verion without being fully tested**. I created it in a short time and only used it for citing **conference proceedings, journal articles, book chapters, and web pages**. 
 
 ## Before Installation
-Make sure that you have installed [Zotero](https://www.zotero.org/) or other reference managers such as [Papers](http://papersapp.com/) or [Mendeley](https://www.mendeley.com//)
+Please make sure that you have installed [Zotero](https://www.zotero.org/) or other reference managers such as [Papers](http://papersapp.com/) or [Mendeley](https://www.mendeley.com//)
 
-## Installation
+## Installation (for Zotero)
 - Downlaod the csl file.
-- Double click on the file and your reference manager such as Zotero will ask you whether you want to install this style
-- Click 'install'
+- Double click on the file and Zotero will ask you whether you want to install this style.
+- Click 'install' and you are done.
